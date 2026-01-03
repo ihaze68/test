@@ -1,0 +1,8 @@
+card
+kártya
+
+shoe
+cipő
+
+pants
+nadrág
