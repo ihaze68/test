@@ -1,0 +1,151 @@
+# Deck header (3 non-comment lines)
+50 mondat, kifejezés: sportolás közben (ES–HU)
+es
+hu
+
+Vamos a calentar.
+Melegítsünk be.
+
+Estira las piernas.
+Nyújtsd le a lábad.
+
+Estira los brazos.
+Nyújtsd le a karod.
+
+Respira hondo.
+Vegyél mély levegőt.
+
+¿Listo?
+Készen állsz?
+
+Vamos a empezar.
+Kezdjük.
+
+¡Vamos!
+Gyerünk!
+
+Sigue así.
+Csak így tovább.
+
+No pares.
+Ne állj meg.
+
+Baja el ritmo.
+Lassíts.
+
+Sube el ritmo.
+Gyorsíts.
+
+Una más.
+Még egyet.
+
+Dos más.
+Még kettőt.
+
+Diez repeticiones.
+Tíz ismétlés.
+
+Tres series.
+Három sorozat.
+
+Descansa un poco.
+Tarts egy kis szünetet.
+
+Descansa un minuto.
+Pihenj egy percet.
+
+Bebe un poco de agua.
+Igyál egy kis vizet.
+
+Estoy cansado.
+Fáradt vagyok.
+
+Estoy agotado.
+Kimerültem.
+
+Me duelen las piernas.
+Fáj a lábam.
+
+Me duele la espalda.
+Fáj a hátam.
+
+Me duele el hombro.
+Fáj a vállam.
+
+Fue duro.
+Ez kemény volt.
+
+Fue fácil.
+Ez könnyű volt.
+
+¡Buen trabajo!
+Szép munka!
+
+¡Genial!
+Szuper!
+
+Puedes hacerlo.
+Meg tudod csinálni.
+
+Concéntrate.
+Koncentrálj.
+
+Mantén la espalda recta.
+Tartsd egyenesen a hátad.
+
+Dobla las rodillas.
+Hajlítsd be a térded.
+
+Levanta con cuidado.
+Óvatosan emelj.
+
+Aguanta.
+Tartsd meg.
+
+Suelta.
+Engedd el.
+
+Cambia de lado.
+Cserélj oldalt.
+
+Más rápido.
+Gyorsabban.
+
+Más lento.
+Lassabban.
+
+Vamos a hacer cardio.
+Csináljunk kardiót.
+
+Vamos a correr.
+Menjünk futni.
+
+Necesito zapatillas nuevas.
+Új cipő kell.
+
+¿Cuál es el plan de hoy?
+Mi a mai terv?
+
+¿Cuántas series?
+Hány sorozat?
+
+¿Cuántas repeticiones?
+Hány ismétlés?
+
+Hora de estirar.
+Ideje nyújtani.
+
+Buen ritmo.
+Jó tempó.
+
+Mantén el ritmo.
+Tartsd a ritmust.
+
+Me salté un día.
+Kihagytam egy napot.
+
+Entreno mañana.
+Holnap edzek.
+
+Nos vemos en el gimnasio.
+Találkozunk a teremben!
